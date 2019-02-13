@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("hi");
 		System.out.println("hello");
 		//modify by CyanousSomdev
+		//Somdev 2
 
 	}
 
